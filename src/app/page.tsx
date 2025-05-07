@@ -1,5 +1,3 @@
-import Image from "next/image";
-
 export default function Home() {
 	return (
 		<div className="max-w-sm mx-auto w-full min-h-screen p-5 flex flex-col justify-between">

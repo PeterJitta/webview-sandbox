@@ -15,7 +15,11 @@ export default function Home() {
 				</div>
 			</div>
 			<input type="number" placeholder="Test Number" className="block w-full rounded-md bg-white px-3.5 py-2 text-base text-gray-900 outline-1 -outline-offset-1 outline-gray-300 placeholder:text-gray-400 focus:outline-2 focus:-outline-offset-2 focus:outline-indigo-600" />
-
+			<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque nemo, facere qui unde adipisci debitis sint nesciunt nulla. Recusandae quisquam tempora laboriosam velit illo aperiam optio dolorum nobis quasi exercitationem.</p>
+			<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque nemo, facere qui unde adipisci debitis sint nesciunt nulla. Recusandae quisquam tempora laboriosam velit illo aperiam optio dolorum nobis quasi exercitationem.</p>
+			<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque nemo, facere qui unde adipisci debitis sint nesciunt nulla. Recusandae quisquam tempora laboriosam velit illo aperiam optio dolorum nobis quasi exercitationem.</p>
+			<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque nemo, facere qui unde adipisci debitis sint nesciunt nulla. Recusandae quisquam tempora laboriosam velit illo aperiam optio dolorum nobis quasi exercitationem.</p>
+			<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque nemo, facere qui unde adipisci debitis sint nesciunt nulla. Recusandae quisquam tempora laboriosam velit illo aperiam optio dolorum nobis quasi exercitationem.</p>
 		</div>
 	);
 }

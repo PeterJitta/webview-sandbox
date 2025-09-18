@@ -6,6 +6,8 @@ export default function Layout({
 	return (
 		<div className="max-w-sm mx-auto w-full min-h-screen p-5 flex flex-col justify-between">
 			{children}
+
+    <p className="text-center">TEST</p>
 		</div>
 	)
 }

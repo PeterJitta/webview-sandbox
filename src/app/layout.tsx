@@ -1,6 +1,7 @@
 "use client";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
+import Script from "next/script";
 
 const geistSans = Geist({
 	variable: "--font-geist-sans",
@@ -20,6 +21,13 @@ export default function RootLayout({
 
 	return (
 		<html lang="en">
+			<Script src="https://cookiecdn.com/cwc.js" strategy="afterInteractive" />
+			<Script
+				id="cookieWow"
+				src="https://cookiecdn.com/configs/L3S3wprYGfSyuaCXPh1xrAKz"
+				data-cwcid="L3S3wprYGfSyuaCXPh1xrAKz"
+				strategy="afterInteractive"
+			/>
 			<body
 				className={`${geistSans.variable} ${geistMono.variable} antialiased`}
 			>

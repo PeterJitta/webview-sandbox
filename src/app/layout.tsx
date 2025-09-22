@@ -21,13 +21,13 @@ export default function RootLayout({
 
 	return (
 		<html lang="en">
-			<Script src="https://cookiecdn.com/cwc.js" strategy="afterInteractive" />
+			<Script src="https://cookiecdn.com/cwc.js" strategy="beforeInteractive" />
 			<Script
 				id="cookieWow"
 				src="https://cookiecdn.com/configs/L3S3wprYGfSyuaCXPh1xrAKz"
 				data-cwcid="L3S3wprYGfSyuaCXPh1xrAKz"
-				strategy="afterInteractive"
-			/>
+				strategy="beforeInteractive"
+				/>
 			<body
 				className={`${geistSans.variable} ${geistMono.variable} antialiased`}
 			>

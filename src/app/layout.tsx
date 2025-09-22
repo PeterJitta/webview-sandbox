@@ -21,11 +21,16 @@ export default function RootLayout({
 
 	return (
 		<html lang="en">
-			<Script src="https://cookiecdn.com/cwc.js" strategy="beforeInteractive" />
+			<Script 
+			type="text/javascript"
+			src="https://cookiecdn.com/cwc.js" 
+			strategy="beforeInteractive" 
+			/>
 			<Script
 				id="cookieWow"
 				src="https://cookiecdn.com/configs/L3S3wprYGfSyuaCXPh1xrAKz"
 				data-cwcid="L3S3wprYGfSyuaCXPh1xrAKz"
+				type="text/javascript"
 				strategy="beforeInteractive"
 				/>
 			<body
